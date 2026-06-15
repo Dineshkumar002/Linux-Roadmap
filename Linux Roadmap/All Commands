@@ -1,5 +1,5 @@
 User Creation
-Files & Folder (edit)
+Files & Folder (create,edit,delete)
 File System
 Task Manager (Process Management)
 LVM (Disk Partation)
@@ -9,3 +9,6 @@ Firewall Acess
 Zip & Unzip
 Application Package Search (default packages)
 Application Install & Uninstall
+User & Group Management
+File Permisions
+
