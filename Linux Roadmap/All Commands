@@ -1,16 +1,31 @@
 Navigation 
-Syatem Information Commands
-User Creation
+
+System Information Commands
+
 Files & Folder (create,edit,delete)
 File System (directory structure)
+File Permissions
+User & Group Management
+
 Task Manager (Process Management)
+
 LVM (Disk Partation)
+
 SSH
+
 Networking
+
 Firewall Acess
+
 Zip & Unzip
+
 Application Package Search (default packages)
 Application Install & Uninstall
-User & Group Management
-File Permissions
+
+User Management
+
+Services (systemd)
+
+Cron Jobs — Scheduled Tasks
+
 
