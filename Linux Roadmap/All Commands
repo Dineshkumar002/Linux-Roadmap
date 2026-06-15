@@ -30,4 +30,12 @@ Services (systemd)
 
 Cron Jobs — Scheduled Tasks
 
-System Monitoring
+System Monitoring :
+top                       # CPU and memory usage
+htop                      # Better interactive monitor
+iotop                     # Disk I/O by process
+nethogs                   # Network usage by process
+vmstat 1                  # System stats every second
+sar -u 1 10               # CPU usage (10 samples, 1s apart)
+dmesg                     # Kernel ring buffer (hardware events)
+dmesg | tail -20          # Recent kernel messages
