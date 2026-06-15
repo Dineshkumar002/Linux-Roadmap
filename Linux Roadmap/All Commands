@@ -3,9 +3,11 @@ Navigation
 System Information Commands
 
 Files & Folder (create,edit,delete)
-File System (directory structure)
 File Permissions
 User & Group Management
+
+File System (directory structure)
+Log Files
 
 Task Manager (Process Management)
 
@@ -28,4 +30,4 @@ Services (systemd)
 
 Cron Jobs — Scheduled Tasks
 
-
+System Monitoring
