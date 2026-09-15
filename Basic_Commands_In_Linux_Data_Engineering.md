@@ -409,3 +409,7 @@ Changes the read, write, and execute permissions of a file or directory.
    ```bash
    chmod -R 755 dir/
    ```
+
+-----
+
+# Completed
